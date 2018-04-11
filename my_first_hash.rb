@@ -1,6 +1,6 @@
 def my_hash
   apartment = {"address" => "52 West Ave", "bedrooms" => 2, "bathrooms" => 1}
-  
+
 end
 
 
